@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+config/wrds.credentials.json
+.venv-wrds/
+data/
+reports/figures/
+*.pdf

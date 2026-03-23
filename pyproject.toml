@@ -1,0 +1,6 @@
+[project]
+name = "fixed-income-tp2"
+version = "0.1.0"
+description = "Assignment workspace for FINA 60201A fixed-income securities TP2"
+requires-python = ">=3.11"
+
