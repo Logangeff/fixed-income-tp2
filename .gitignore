@@ -5,3 +5,5 @@ config/wrds.credentials.json
 data/
 reports/figures/
 *.pdf
+!docs/
+!docs/*.pdf
