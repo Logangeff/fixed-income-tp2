@@ -12,6 +12,13 @@ This workspace is organized so we can solve the assignment question by question 
 - `src/fixed_income_tp2/`: reusable project code.
 - `FINA_60201_TP2_Submission.ipynb`: standalone notebook version for submission.
 
+## Git Helpers
+
+Two Windows batch files are included at the repo root:
+
+- `git_push_main.bat`: stages changes, asks for a commit message, commits, and pushes to `origin/main`.
+- `git_update_from_main.bat`: fetches from `origin` and rebases the local branch on `main`.
+
 ## Submission Notebook
 
 If your instructor prefers notebooks over `.py` scripts, the repo now includes a standalone submission notebook:
